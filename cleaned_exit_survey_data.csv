@@ -1,0 +1,823 @@
+Unhappy with job tasks,Unhappy with department leadership,Unsatisfactory physical work environment,Felt unrecognized,Concerned about job security,Unhappy with work location,Poor employment conditions,Interpersonal conflict at work,Employment Status,Classification,Region,Overall Dissatisfaction
+True,False,False,True,False,False,False,False,Permanent Full-time,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,True,False,Permanent Full-time,0,Central Office,1
+True,True,False,False,False,False,False,False,Permanent Part-time,Secondary,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,North Queensland,0
+True,True,False,False,False,False,False,True,Permanent Part-time,0,Not Stated,1
+True,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Metropolitan,0
+True,True,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+False,False,False,True,False,False,False,False,Permanent Part-time,0,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+False,False,False,False,False,False,False,True,Permanent Part-time,0,Darling Downs South West,1
+False,True,False,True,False,False,False,False,Permanent Part-time,0,Metropolitan,1
+True,False,False,False,False,True,False,False,Permanent Full-time,Primary,North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,South East,0
+True,True,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,True,Permanent Full-time,0,Not Stated,1
+False,False,False,True,False,False,False,True,Permanent Full-time,Secondary,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+False,True,False,False,False,False,False,False,Permanent Full-time,Special Education,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Temporary Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+True,False,False,True,False,False,True,False,Permanent Full-time,0,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,South East,0
+False,False,False,False,False,False,False,True,Permanent Full-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+True,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,1
+False,True,False,False,False,False,False,False,Permanent Part-time,Primary,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+True,False,False,True,False,False,False,False,Permanent Full-time,Special Education,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+True,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,0
+True,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Temporary Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+False,False,True,False,False,False,False,False,Permanent Full-time,0,Metropolitan,1
+True,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Not Stated,0
+False,False,False,False,False,False,False,False,Temporary Part-time,0,Central Office,0
+True,False,False,True,False,True,False,False,Permanent Part-time,Primary,Metropolitan,1
+True,False,False,False,False,True,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,True,False,False,False,True,False,Permanent Full-time,Secondary,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Central Office,0
+False,True,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,1
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Temporary Part-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Temporary Full-time,0,Central Office,0
+True,False,False,True,False,False,False,True,Permanent Full-time,0,Not Stated,1
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,Metropolitan,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Not Stated,0
+False,True,False,True,False,False,False,False,Permanent Full-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+True,False,False,True,False,False,False,False,Permanent Full-time,Secondary,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,South East,0
+True,True,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,0
+True,True,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Darling Downs South West,0
+True,True,False,True,False,False,False,False,Permanent Part-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+True,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,1
+False,False,False,False,True,False,True,False,Temporary Part-time,0,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Metropolitan,0
+True,False,False,False,False,False,False,False,Permanent Part-time,Primary,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,Far North Queensland,0
+False,False,True,False,False,False,False,False,Permanent Part-time,0,North Queensland,1
+False,False,False,False,False,False,False,False,Temporary Full-time,0,Not Stated,0
+False,True,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,True,False,True,False,False,False,True,Permanent Full-time,0,South East,1
+True,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Not Stated,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Central Office,0
+True,False,False,True,False,False,True,False,Temporary Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,True,False,False,False,True,False,Permanent Part-time,A01-A04,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Far North Queensland,0
+True,True,False,False,False,False,False,False,Permanent Full-time,Secondary,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+True,False,False,False,True,False,False,False,Temporary Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Temporary Part-time,Primary,Darling Downs South West,0
+False,False,False,False,True,False,True,False,Permanent Full-time,A01-A04,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+True,True,False,False,False,False,False,False,Permanent Full-time,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Central Office,0
+True,False,False,False,False,False,False,False,Temporary Part-time,0,Metropolitan,1
+True,False,False,False,True,True,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,False,False,False,True,False,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+True,False,False,False,True,False,False,False,Permanent Full-time,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Temporary Full-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Temporary Part-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,True,False,False,False,False,Permanent Part-time,0,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,PO1-PO4,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+False,False,False,False,True,False,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,True,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Not Stated,0
+True,False,False,False,False,False,False,True,Permanent Full-time,AO8 and Above,Central Office,1
+True,False,False,True,False,False,False,False,Permanent Full-time,PO1-PO4,Central Office,1
+False,False,False,True,False,False,False,False,Permanent Full-time,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,AO8 and Above,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Central Office,0
+False,False,False,False,True,True,False,False,Permanent Part-time,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Central Office,0
+True,False,False,False,False,True,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,True,False,False,True,False,False,False,Permanent Full-time,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+True,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,True,False,Permanent Part-time,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Temporary Full-time,PO1-PO4,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,False,False,False,True,True,False,False,Permanent Full-time,AO8 and Above,Central Office,1
+True,False,False,True,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,True,Permanent Full-time,0,Far North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,AO8 and Above,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+True,False,False,True,False,False,False,False,Permanent Full-time,A01-A04,South East,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO8 and Above,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+False,False,True,False,False,False,False,False,Permanent Part-time,0,Metropolitan,1
+False,False,True,False,False,False,True,False,Permanent Full-time,0,South East,1
+False,False,False,False,False,False,False,False,Permanent Part-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+True,False,False,True,True,False,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,True,False,False,False,False,False,Permanent Part-time,Primary,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,PO1-PO4,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+True,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,True,False,False,False,Permanent Full-time,AO8 and Above,Central Office,1
+True,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,South East,0
+False,False,True,False,False,False,False,False,Permanent Part-time,Special Education,Central Queensland,1
+False,False,False,True,False,False,False,False,Permanent Part-time,Primary,Far North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Central Office,0
+False,True,False,False,True,False,False,True,Permanent Full-time,Primary,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,Central Office,0
+False,True,False,False,False,True,False,False,Permanent Full-time,AO8 and Above,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Temporary Part-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,AO5-AO7,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,A01-A04,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,PO1-PO4,South East,0
+False,False,False,False,False,False,False,False,Temporary Full-time,Primary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+False,False,False,False,False,True,False,False,Permanent Full-time,Primary,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Far North Queensland,0
+False,False,True,False,False,False,False,False,Permanent Part-time,0,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Central Queensland,0
+False,False,False,False,True,False,False,False,Permanent Part-time,0,South East,1
+False,False,False,False,False,True,False,False,Permanent Part-time,0,Not Stated,1
+False,False,False,False,False,False,False,False,Temporary Part-time,A01-A04,Darling Downs South West,0
+False,False,False,True,False,False,True,False,Permanent Full-time,Secondary,Central Office,1
+True,False,False,True,False,False,True,False,Permanent Full-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+True,False,False,True,False,False,False,False,Permanent Full-time,AO8 and Above,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Temporary Part-time,A01-A04,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+True,True,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,North Coast,0
+False,True,False,False,False,False,False,True,Permanent Part-time,0,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+True,True,False,False,False,False,False,True,Permanent Full-time,Primary,Metropolitan,1
+False,False,False,False,True,False,True,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,True,False,Permanent Full-time,Secondary,North Coast,1
+False,False,False,False,False,True,False,False,Permanent Full-time,Secondary,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+True,False,False,True,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,PO1-PO4,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Central Queensland,0
+False,False,False,False,False,False,True,False,Permanent Part-time,Primary,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+True,False,False,True,False,False,False,False,Permanent Part-time,0,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Casual,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Far North Queensland,0
+False,False,False,True,True,False,False,False,Permanent Full-time,Secondary,Not Stated,1
+False,False,False,False,False,False,False,True,Permanent Full-time,Special Education,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+True,True,False,False,False,False,False,False,Permanent Full-time,Secondary,North Queensland,1
+False,False,True,False,False,False,False,False,Permanent Part-time,Primary,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,True,Permanent Full-time,0,Metropolitan,1
+True,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,0
+False,True,False,False,False,True,False,False,Permanent Full-time,Middle,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+False,False,False,False,False,True,False,False,Permanent Full-time,0,Not Stated,1
+False,False,False,False,False,False,False,True,Permanent Full-time,0,Not Stated,1
+False,False,False,False,True,False,False,False,Temporary Part-time,0,South East,1
+True,False,False,False,False,False,True,False,Permanent Full-time,Secondary,North Coast,1
+False,False,False,False,False,False,False,False,Temporary Full-time,Primary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+False,False,False,False,False,True,False,False,Permanent Full-time,Primary,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,A01-A04,Darling Downs South West,0
+False,False,False,False,True,False,False,False,Temporary Part-time,0,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO8 and Above,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,False,False,True,False,False,False,False,Permanent Full-time,Secondary,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Temporary Full-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,0
+False,False,False,False,True,False,False,False,Permanent Full-time,0,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+True,False,False,True,True,False,False,False,Permanent Part-time,0,Not Stated,1
+True,False,False,False,False,False,False,False,Permanent Full-time,0,South East,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,True,True,False,False,False,False,Permanent Full-time,Secondary,Not Stated,1
+False,False,False,False,False,True,False,False,Permanent Full-time,AO8 and Above,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,Metropolitan,0
+True,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+True,False,False,False,False,False,False,True,Permanent Full-time,Secondary,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,True,False,False,Permanent Part-time,0,Darling Downs South West,1
+True,False,False,False,False,False,True,False,0,0,Not Stated,1
+False,True,False,False,False,False,False,False,Permanent Full-time,Primary,South East,1
+True,False,False,False,False,False,False,False,Permanent Part-time,Primary,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,True,0,Primary,Not Stated,1
+False,False,False,True,False,False,False,False,Permanent Part-time,0,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Temporary Part-time,0,Central Queensland,0
+True,True,True,True,False,True,True,True,Permanent Full-time,Primary,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,True,Permanent Full-time,Primary,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+False,False,False,False,False,True,False,False,Temporary Part-time,0,North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,0,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,True,False,Permanent Part-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+True,True,False,True,True,False,True,False,Permanent Full-time,0,Central Office,1
+False,True,False,False,False,False,True,False,Permanent Part-time,Primary,North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Metropolitan,0
+True,False,False,False,False,False,False,False,Permanent Full-time,Special Education,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,North Queensland,0
+False,True,False,True,False,False,False,False,Permanent Full-time,0,South East,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+True,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,1
+False,True,False,True,False,False,False,True,Permanent Part-time,0,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,True,False,False,False,False,False,False,Temporary Full-time,AO8 and Above,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,True,False,False,False,False,True,False,Permanent Full-time,Primary,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Central Office,0
+True,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+True,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Metropolitan,0
+False,False,False,False,False,False,False,False,Temporary Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Central Queensland,0
+False,False,False,False,True,False,False,False,Permanent Part-time,Primary,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Queensland,0
+False,False,False,False,False,False,False,True,Permanent Part-time,Secondary,South East,1
+True,False,False,False,False,False,False,False,Permanent Full-time,0,North Queensland,1
+True,True,False,True,False,False,False,False,Permanent Part-time,Primary,North Queensland,1
+False,False,False,False,False,True,False,False,Permanent Part-time,0,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Casual,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,True,Permanent Part-time,0,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,0,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,PO1-PO4,North Coast,0
+True,False,False,False,False,False,False,False,Permanent Part-time,Special Education,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+True,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,A01-A04,Metropolitan,0
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+True,False,False,False,False,False,True,False,Permanent Full-time,Secondary,North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,Not Stated,0
+False,True,False,False,False,False,False,False,Permanent Full-time,A01-A04,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Metropolitan,0
+False,False,False,True,False,False,False,False,Permanent Full-time,Secondary,Far North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+True,True,False,False,False,False,False,False,Permanent Part-time,Primary,North Queensland,1
+True,False,False,False,False,False,False,False,Permanent Full-time,0,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO8 and Above,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,True,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,1
+False,False,False,True,False,False,False,False,Permanent Full-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+True,False,False,True,False,False,True,False,Permanent Part-time,A01-A04,South East,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,PO1-PO4,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+True,True,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Office,0
+False,True,False,False,False,False,False,False,Permanent Part-time,Special Education,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+False,False,False,True,False,False,False,False,Permanent Full-time,Middle,North Queensland,1
+False,True,False,False,True,False,False,False,Permanent Part-time,Primary,South East,1
+False,False,False,False,False,False,False,True,Permanent Part-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Darling Downs South West,0
+False,False,False,True,False,False,True,True,Permanent Full-time,0,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+False,True,False,True,False,False,False,False,Permanent Full-time,Secondary,North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,0
+True,False,False,False,False,False,False,False,Permanent Full-time,0,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+False,True,True,False,False,False,False,False,Permanent Part-time,0,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,0
+False,False,False,False,False,True,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,True,False,False,Permanent Part-time,0,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Queensland,0
+False,True,False,True,False,False,True,False,Permanent Part-time,Secondary,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,0
+True,False,False,False,False,False,False,True,Permanent Full-time,0,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Temporary Full-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,South East,0
+False,False,False,False,False,False,True,False,Temporary Part-time,0,South East,1
+False,False,False,False,False,False,False,True,Permanent Full-time,0,Metropolitan,1
+False,True,False,True,False,False,False,False,Permanent Full-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+True,False,False,False,False,True,False,False,Permanent Full-time,Secondary,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+True,False,False,False,False,False,False,True,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Far North Queensland,0
+True,True,False,False,False,False,False,False,Permanent Part-time,Primary,Not Stated,1
+False,True,False,False,False,True,True,False,Permanent Full-time,Secondary,Far North Queensland,1
+False,False,False,False,False,False,False,False,Temporary Part-time,Secondary,South East,0
+True,False,False,False,False,False,True,False,Permanent Part-time,0,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Not Stated,0
+False,False,True,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,1
+True,False,False,True,False,False,True,False,Permanent Part-time,Secondary,North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,South East,0
+False,True,False,False,False,False,False,False,Permanent Part-time,Primary,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,Metropolitan,0
+False,True,False,False,False,False,False,False,Permanent Full-time,0,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+True,False,False,False,False,False,False,False,Permanent Part-time,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,True,False,True,False,False,False,True,Permanent Part-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,True,False,False,False,True,False,Permanent Part-time,0,South East,1
+False,False,False,False,False,False,False,False,Temporary Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Casual,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Not Stated,0
+True,True,False,True,False,False,False,False,Permanent Full-time,AO5-AO7,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+True,True,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,True,False,True,Permanent Full-time,0,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Temporary Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Temporary Full-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,A01-A04,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+True,True,False,True,False,False,False,False,Permanent Full-time,Special Education,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+True,False,False,False,False,False,False,False,Temporary Full-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Temporary Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,0
+False,True,False,False,False,True,False,False,Permanent Full-time,Primary,North Coast,1
+False,False,False,False,False,False,False,False,Temporary Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,AO8 and Above,Central Office,0
+False,False,False,True,False,False,False,False,Permanent Full-time,Secondary,Far North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Casual,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Temporary Part-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,North Coast,0
+False,False,False,True,False,True,False,False,Permanent Full-time,Primary,Central Queensland,1
+False,False,False,False,False,False,True,True,Permanent Full-time,0,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,AO8 and Above,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,South East,0
+False,False,False,False,False,False,False,False,Casual,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,True,False,False,False,False,Permanent Full-time,0,North Coast,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Casual,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Far North Queensland,0
+False,True,False,False,False,False,False,True,Permanent Full-time,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,South East,0
+False,False,False,False,False,False,False,False,Temporary Part-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,North Coast,0
+False,False,False,False,False,False,False,False,Temporary Full-time,0,Central Office,0
+False,False,False,True,True,False,False,True,Casual,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,Central Office,0
+False,False,False,False,True,False,False,False,Casual,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Casual,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Casual,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,Metropolitan,0
+False,False,False,False,True,False,False,False,Permanent Full-time,0,Far North Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,0
+False,True,False,False,False,False,False,True,Permanent Full-time,0,North Coast,1
+False,False,False,False,True,False,False,False,Permanent Part-time,0,Not Stated,1
+False,True,False,True,False,False,False,False,Permanent Full-time,0,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,0
+False,False,False,False,False,True,False,False,Permanent Full-time,A01-A04,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Middle,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,North Queensland,0
+False,False,False,False,False,False,False,False,Temporary Full-time,Primary,North Coast,0
+True,False,False,False,False,False,False,False,Permanent Part-time,0,Central Office,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+True,False,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Metropolitan,0
+True,True,False,False,False,False,False,False,Permanent Full-time,0,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Queensland,0
+True,True,False,False,False,False,False,False,Permanent Part-time,Secondary,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Temporary Full-time,Special Education,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Far North Queensland,0
+True,False,False,True,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,North Coast,0
+True,True,True,False,False,False,True,False,Permanent Full-time,0,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,South East,0
+False,False,False,False,False,False,False,False,Temporary Full-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Special Education,North Coast,0
+False,False,False,False,False,False,False,False,Temporary Part-time,0,Not Stated,0
+True,False,False,True,False,False,False,False,Permanent Full-time,Secondary,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+True,False,False,False,True,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,True,False,False,True,False,Permanent Full-time,Secondary,North Coast,1
+False,False,False,True,False,False,False,False,Permanent Part-time,A01-A04,Metropolitan,1
+False,True,False,True,False,False,True,False,Permanent Part-time,0,Metropolitan,1
+False,False,False,False,False,False,False,False,Temporary Part-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,A01-A04,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Special Education,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Metropolitan,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,South East,0
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Central Queensland,0
+False,True,False,False,False,False,False,False,Permanent Full-time,Primary,Central Queensland,1
+False,False,False,False,False,False,False,False,Permanent Part-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Metropolitan,0
+False,False,False,False,False,False,False,True,Temporary Full-time,A01-A04,South East,1
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,AO5-AO7,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,0,Not Stated,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Primary,Far North Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Part-time,Primary,Central Queensland,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,North Coast,0
+False,False,False,False,False,False,False,False,Permanent Full-time,A01-A04,Central Office,0
+False,False,False,False,False,False,False,False,Permanent Full-time,Secondary,Darling Downs South West,0
+False,False,False,False,False,False,False,False,0,0,Metropolitan,0
