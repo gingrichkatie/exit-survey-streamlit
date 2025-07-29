@@ -18,7 +18,7 @@ def load_data():
     df = pd.read_csv("dete_survey.csv")  # <-- Replace with your file name if needed
     return df
 
-df = load_data("dete_survey.csv")
+df = load_data()
 st.markdown("### Raw Survey Preview")
 st.dataframe(df.head())
 
